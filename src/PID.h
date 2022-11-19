@@ -2,7 +2,7 @@
 
 #define basePosition 2500
 
-double Kp = 0.5;  
+double Kp = 3;  
 double Kd = 2;
 double ki = 0;
 double currentTime=0;
